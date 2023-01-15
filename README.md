@@ -5,12 +5,14 @@ Prepared by Khairil Nazrel Bin Khairil Khusnin (2116659) and Muhammad Fayyadh Bi
 Pollos Travel is a platform that allows users to plan and book their traveling trips in Turkey whether it be for leisure or business, based in Kuala Lumpur, Malaysia.
 
 Project Description
+
 Pollos Travel is a trusted traveling website. It provides travel plans services to the best places in Turkey. Customers will get a complete package including facilities and visa services. 
 Pollos Travel also gives details of information about the places exclusive for the customer to look up to and help customers to book the trip just by a simple click.
 
 Project Sitemap
 
 Group Contributions
+
 Each of the team members prepared 4 web pages for the project as shown in the following table.
 Khairil Nazrel Bin Khairil Khusnin
 (2116659)
