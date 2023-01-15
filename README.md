@@ -10,7 +10,7 @@ Pollos Travel is a trusted traveling website. It provides travel plans services 
 Pollos Travel also gives details of information about the places exclusive for the customer to look up to and help customers to book the trip just by a simple click.
 
 Project Sitemap
-
+(stiemap.
 
 Group Contributions
 
@@ -28,7 +28,7 @@ Added 8 places description in package page with appropriate styling
 JavaScript event handlers for menu and navigation bar
 
 Use of third party resources
-
+-
 
 References
 
